@@ -1,6 +1,6 @@
 ## Example cli built with typescript and commander
 
-This is a example CLI with learning purposes built following the (TerribleDev)[https://blog.terrible.dev/Building-attractive-CLIs-in-JavaScript/] tutorial.
+This is a example CLI with learning purposes built following the [TerribleDev](https://blog.terrible.dev/Building-attractive-CLIs-in-JavaScript/) tutorial.
 
 ## Available Commands
 
